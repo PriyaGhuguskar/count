@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React-count/static/css/main.345304a1.css",
-    "main.js": "/React-count/static/js/main.32893701.js",
-    "index.html": "/React-count/index.html",
-    "main.345304a1.css.map": "/React-count/static/css/main.345304a1.css.map",
-    "main.32893701.js.map": "/React-count/static/js/main.32893701.js.map"
+    "main.css": "/count/static/css/main.345304a1.css",
+    "main.js": "/count/static/js/main.32893701.js",
+    "index.html": "/count/index.html",
+    "main.345304a1.css.map": "/count/static/css/main.345304a1.css.map",
+    "main.32893701.js.map": "/count/static/js/main.32893701.js.map"
   },
   "entrypoints": [
     "static/css/main.345304a1.css",
